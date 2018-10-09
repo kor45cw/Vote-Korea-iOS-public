@@ -1,0 +1,297 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0fG-ru-Kq8"; */
+"0fG-ru-Kq8.text" = "Label";
+
+/* Class = "UILabel"; text = "선거종류 :"; ObjectID = "1bF-Fw-gkA"; */
+"1bF-Fw-gkA.text" = "선거종류 :";
+
+/* Class = "UILabel"; text = "안철수"; ObjectID = "1bq-PR-6tZ"; */
+"1bq-PR-6tZ.text" = "안철수";
+
+/* Class = "UIButton"; normalTitle = "증명서 보기"; ObjectID = "1km-7A-JNN"; */
+"1km-7A-JNN.normalTitle" = "증명서 보기";
+
+/* Class = "UILabel"; text = "SINCE 2016"; ObjectID = "1p7-Xw-TxU"; */
+"1p7-Xw-TxU.text" = "SINCE 2016";
+
+/* Class = "UIButton"; normalTitle = "검색"; ObjectID = "3EW-oz-aWY"; */
+"3EW-oz-aWY.normalTitle" = "검색";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3by-1i-kVY"; */
+"3by-1i-kVY.text" = "Label";
+
+/* Class = "UILabel"; text = "알림"; ObjectID = "52f-YX-6X2"; */
+"52f-YX-6X2.text" = "알림";
+
+/* Class = "UILabel"; text = "후보자정보공개자료는 국민의 선거권행사를 보장하기 위하여 공직선거법(제60조의2 제10항)의 규정에 따라 ‘후보자등록신청개시일 전일’까지 공개하고 있으며 동 자료를 목적외의 용도로 사용할 수 없습니다."; ObjectID = "65F-VV-SJ4"; */
+"65F-VV-SJ4.text" = "후보자정보공개자료는 국민의 선거권행사를 보장하기 위하여 공직선거법(제60조의2 제10항)의 규정에 따라 ‘후보자등록신청개시일 전일’까지 공개하고 있으며 동 자료를 목적외의 용도로 사용할 수 없습니다.";
+
+/* Class = "UILabel"; text = "사전투표:"; ObjectID = "6JR-ch-UqL"; */
+"6JR-ch-UqL.text" = "사전투표:";
+
+/* Class = "UILabel"; text = "Version 1.0.0"; ObjectID = "7Jd-Fa-tvf"; */
+"7Jd-Fa-tvf.text" = "Version 1.0.0";
+
+/* Class = "UILabel"; text = "지역을 선택해주세요."; ObjectID = "80Z-Dx-jMe"; */
+"80Z-Dx-jMe.text" = "지역을 선택해주세요.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "80k-wU-piM"; */
+"80k-wU-piM.text" = "Label";
+
+/* Class = "UILabel"; text = "감사합니다."; ObjectID = "87K-G4-jAj"; */
+"87K-G4-jAj.text" = "감사합니다.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8nE-IP-bb7"; */
+"8nE-IP-bb7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "931-eh-bfb"; */
+"931-eh-bfb.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "99S-vM-pyX"; */
+"99S-vM-pyX.text" = "Label";
+
+/* Class = "UILabel"; text = "시·도지사선거"; ObjectID = "9xb-RD-Iwl"; */
+"9xb-RD-Iwl.text" = "시·도지사선거";
+
+/* Class = "UILabel"; text = "대한민국 선거 어플리케이션에서 제공하는\n알림을 받으시겠습니까?"; ObjectID = "A1L-e5-sjW"; */
+"A1L-e5-sjW.text" = "대한민국 선거 어플리케이션에서 제공하는\n알림을 받으시겠습니까?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BgC-tF-Unm"; */
+"BgC-tF-Unm.text" = "Label";
+
+/* Class = "UILabel"; text = "이름으로\n후보자 검색"; ObjectID = "DYs-g9-leD"; */
+"DYs-g9-leD.text" = "이름으로\n후보자 검색";
+
+/* Class = "UILabel"; text = "ejdklqwfjklewjfklwejfklewjfklwejfklwejfklwejfklwejfklwejfklwejkfljweklf"; ObjectID = "E6Z-k1-JdD"; */
+"E6Z-k1-JdD.text" = "ejdklqwfjklewjfklwejfklewjfklwejfklwejfklwejfklwejfklwejfklwejkfljweklf";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Eai-IE-oDL"; */
+"Eai-IE-oDL.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FbK-Cb-YEL"; */
+"FbK-Cb-YEL.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Flr-cw-v6u"; */
+"Flr-cw-v6u.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "읍·면·동 검색"; ObjectID = "Fpi-p5-DZE"; */
+"Fpi-p5-DZE.placeholder" = "읍·면·동 검색";
+
+/* Class = "UILabel"; text = "저장한 선거구 및 후보자 보기"; ObjectID = "Fyk-xv-E6E"; */
+"Fyk-xv-E6E.text" = "저장한 선거구 및 후보자 보기";
+
+/* Class = "UIBarButtonItem"; title = "이전"; ObjectID = "Gi8-yU-i7e"; */
+"Gi8-yU-i7e.title" = "이전";
+
+/* Class = "UILabel"; text = "(6·13 지방선거)"; ObjectID = "Gjv-r7-AQ6"; */
+"Gjv-r7-AQ6.text" = "(6·13 지방선거)";
+
+/* Class = "UILabel"; text = "Designer & Developer"; ObjectID = "GsP-EF-zoZ"; */
+"GsP-EF-zoZ.text" = "Designer & Developer";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H9v-fh-Gb4"; */
+"H9v-fh-Gb4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IwN-y6-Lty"; */
+"IwN-y6-Lty.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "선거 정보"; ObjectID = "Jml-on-PWS"; */
+"Jml-on-PWS.title" = "선거 정보";
+
+/* Class = "UINavigationItem"; title = "마네키네코 팀 소개"; ObjectID = "Jxe-Nn-KFh"; */
+"Jxe-Nn-KFh.title" = "마네키네코 팀 소개";
+
+/* Class = "UIButton"; normalTitle = "자세히 보기"; ObjectID = "K81-bK-7nb"; */
+"K81-bK-7nb.normalTitle" = "자세히 보기";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "L7b-DO-shz"; */
+"L7b-DO-shz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MGb-HD-tlC"; */
+"MGb-HD-tlC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "검색"; ObjectID = "MQM-Ky-8Ic"; */
+"MQM-Ky-8Ic.normalTitle" = "검색";
+
+/* Class = "UILabel"; text = "즐겨찾기에 저장한 선거구가 없습니다."; ObjectID = "Mfr-lZ-BAJ"; */
+"Mfr-lZ-BAJ.text" = "즐겨찾기에 저장한 선거구가 없습니다.";
+
+/* Class = "UILabel"; text = "안철수"; ObjectID = "NP9-J6-kyQ"; */
+"NP9-J6-kyQ.text" = "안철수";
+
+/* Class = "UILabel"; text = "내 주소로\n후보자 검색"; ObjectID = "O24-rt-GWH"; */
+"O24-rt-GWH.text" = "내 주소로\n후보자 검색";
+
+/* Class = "UILabel"; text = "KOR45CW"; ObjectID = "Of4-o3-VLR"; */
+"Of4-o3-VLR.text" = "KOR45CW";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OzE-Bm-BXo"; */
+"OzE-Bm-BXo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "검색"; ObjectID = "Qy5-7H-K34"; */
+"Qy5-7H-K34.normalTitle" = "검색";
+
+/* Class = "UILabel"; text = "하나의 읍, 면, 동이 서로 다른 지방의원선거구에 속한 지역(강원 영월군 영월읍, 충북 증평군 증평읍, 경남 거창군 거창읍) 및 하나의 읍, 면, 동이 2이상의 선거구를 이루는 지역(세종 조치원읍, 도답동, 종촌동, 보람동, 제주 일도2동, 이도2동, 연동, 노형동)은 선거구역을 반드시 확인하시기 바랍니다."; ObjectID = "RDz-OA-hbh"; */
+"RDz-OA-hbh.text" = "하나의 읍, 면, 동이 서로 다른 지방의원선거구에 속한 지역(강원 영월군 영월읍, 충북 증평군 증평읍, 경남 거창군 거창읍) 및 하나의 읍, 면, 동이 2이상의 선거구를 이루는 지역(세종 조치원읍, 도답동, 종촌동, 보람동, 제주 일도2동, 이도2동, 연동, 노형동)은 선거구역을 반드시 확인하시기 바랍니다.";
+
+/* Class = "UILabel"; text = "UI/UX Designer"; ObjectID = "Rkq-tF-YyX"; */
+"Rkq-tF-YyX.text" = "UI/UX Designer";
+
+/* Class = "UIButton"; normalTitle = "즐겨찾기"; ObjectID = "U6U-Fb-k6c"; */
+"U6U-Fb-k6c.normalTitle" = "즐겨찾기";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ua4-ew-TTw"; */
+"Ua4-ew-TTw.text" = "Label";
+
+/* Class = "UILabel"; text = "알림설정"; ObjectID = "VTL-wd-kqT"; */
+"VTL-wd-kqT.text" = "알림설정";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VsM-wv-ft3"; */
+"VsM-wv-ft3.text" = "Label";
+
+/* Class = "UILabel"; text = "알림설정"; ObjectID = "Wo1-RS-Sq6"; */
+"Wo1-RS-Sq6.text" = "알림설정";
+
+/* Class = "UIButton"; normalTitle = "선거 개요"; ObjectID = "XPH-4M-ggP"; */
+"XPH-4M-ggP.normalTitle" = "선거 개요";
+
+/* Class = "UINavigationItem"; title = "설정"; ObjectID = "XV9-Lw-e35"; */
+"XV9-Lw-e35.title" = "설정";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ylr-R7-rxZ"; */
+"Ylr-R7-rxZ.text" = "Label";
+
+/* Class = "UILabel"; text = "6월 8일, 6월 9일 (오전 6시부터 오후 6시까지)"; ObjectID = "Z1P-JY-QA9"; */
+"Z1P-JY-QA9.text" = "6월 8일, 6월 9일 (오전 6시부터 오후 6시까지)";
+
+/* Class = "UILabel"; text = "내 주소로 우리 지역 후보자를 쉽고 빠르게 검색할수 있습니다."; ObjectID = "ZHn-9k-MLc"; */
+"ZHn-9k-MLc.text" = "내 주소로 우리 지역 후보자를 쉽고 빠르게 검색할수 있습니다.";
+
+/* Class = "UILabel"; text = "어플리케이션이 더 발전할 수 있도록\n관심 분야에 후원해주세요."; ObjectID = "ZJx-0E-bST"; */
+"ZJx-0E-bST.text" = "어플리케이션이 더 발전할 수 있도록\n관심 분야에 후원해주세요.";
+
+/* Class = "UILabel"; text = "검색결과 :"; ObjectID = "a8v-MT-rTb"; */
+"a8v-MT-rTb.text" = "검색결과 :";
+
+/* Class = "UIButton"; normalTitle = "자주 묻는 질문"; ObjectID = "aS5-Pf-iXj"; */
+"aS5-Pf-iXj.normalTitle" = "자주 묻는 질문";
+
+/* Class = "UILabel"; text = "Team Director & Developer"; ObjectID = "ajt-Ep-5UE"; */
+"ajt-Ep-5UE.text" = "Team Director & Developer";
+
+/* Class = "UILabel"; text = "0X0020"; ObjectID = "bTO-qh-8iJ"; */
+"bTO-qh-8iJ.text" = "0X0020";
+
+/* Class = "UILabel"; text = "서울특별시 시·도지사선거의\n후보자를 확인하세요."; ObjectID = "bXv-Gl-aVa"; */
+"bXv-Gl-aVa.text" = "서울특별시 시·도지사선거의\n후보자를 확인하세요.";
+
+/* Class = "UILabel"; text = "또는"; ObjectID = "bYG-Ye-Wn5"; */
+"bYG-Ye-Wn5.text" = "또는";
+
+/* Class = "UINavigationItem"; title = "선거 정보"; ObjectID = "bai-MQ-ya3"; */
+"bai-MQ-ya3.title" = "선거 정보";
+
+/* Class = "UILabel"; text = "대한민국 선거"; ObjectID = "bie-6h-Cl7"; */
+"bie-6h-Cl7.text" = "대한민국 선거";
+
+/* Class = "UITextField"; placeholder = "읍·면·동 검색"; ObjectID = "bpa-qP-uDy"; */
+"bpa-qP-uDy.placeholder" = "읍·면·동 검색";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cjc-pW-2Jw"; */
+"cjc-pW-2Jw.text" = "Label";
+
+/* Class = "UILabel"; text = "모든 정보는 중앙선거관리위원회에서\n제공한 OPEN API 및 홈페이지에서 참고하였습니다.\n\n선거 정보는 업데이트 지연이 발생할 수 있으므로,\n정확한 내용은 중앙선거관리위원회에서 확인하시기 바랍니다."; ObjectID = "cx6-7a-EiS"; */
+"cx6-7a-EiS.text" = "모든 정보는 중앙선거관리위원회에서\n제공한 OPEN API 및 홈페이지에서 참고하였습니다.\n\n선거 정보는 업데이트 지연이 발생할 수 있으므로,\n정확한 내용은 중앙선거관리위원회에서 확인하시기 바랍니다.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d6m-OH-ccr"; */
+"d6m-OH-ccr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dTz-Q9-PYh"; */
+"dTz-Q9-PYh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "사전투표 안내"; ObjectID = "dU3-cA-5e3"; */
+"dU3-cA-5e3.normalTitle" = "사전투표 안내";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dZM-yv-MQA"; */
+"dZM-yv-MQA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ENTPRAM"; ObjectID = "dqM-gy-dDh"; */
+"dqM-gy-dDh.text" = "ENTPRAM";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eTl-c3-m4K"; */
+"eTl-c3-m4K.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "선거 전체 일정"; ObjectID = "ffv-Uc-UEE"; */
+"ffv-Uc-UEE.normalTitle" = "선거 전체 일정";
+
+/* Class = "UITabBarItem"; title = "설정"; ObjectID = "geo-i3-9f0"; */
+"geo-i3-9f0.title" = "설정";
+
+/* Class = "UILabel"; text = "아름다운 세상을 위해 꼭 투표해주세요."; ObjectID = "hYE-lP-f91"; */
+"hYE-lP-f91.text" = "아름다운 세상을 위해 꼭 투표해주세요.";
+
+/* Class = "UILabel"; text = "We are a developers and a designers who like to build and design applications and websites."; ObjectID = "hez-r4-9sS"; */
+"hez-r4-9sS.text" = "We are a developers and a designers who like to build and design applications and websites.";
+
+/* Class = "UILabel"; text = "후보자정보공개자료는 국민의 선거권행사를 보장하기 위하여 공직선거법(제60조의2 제10항)의 규정에 따라 ‘후보자등록신청개시일 전일’까지 공개하고 있으며 동 자료를 목적외의 용도로 사용할 수 없습니다."; ObjectID = "jTD-C4-kZO"; */
+"jTD-C4-kZO.text" = "후보자정보공개자료는 국민의 선거권행사를 보장하기 위하여 공직선거법(제60조의2 제10항)의 규정에 따라 ‘후보자등록신청개시일 전일’까지 공개하고 있으며 동 자료를 목적외의 용도로 사용할 수 없습니다.";
+
+/* Class = "UITabBarItem"; title = "후보자 검색"; ObjectID = "jgJ-WN-tht"; */
+"jgJ-WN-tht.title" = "공지";
+
+/* Class = "UINavigationItem"; title = "후원하기"; ObjectID = "kJU-L2-geK"; */
+"kJU-L2-geK.title" = "후원하기";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kdX-6z-eQh"; */
+"kdX-6z-eQh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kv6-hF-7Sk"; */
+"kv6-hF-7Sk.text" = "Label";
+
+/* Class = "UILabel"; text = "저장한 선거구 : 0"; ObjectID = "lpp-bW-rnB"; */
+"lpp-bW-rnB.text" = "저장한 선거구 : 0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nPs-v3-PgR"; */
+"nPs-v3-PgR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nxA-nW-BPF"; */
+"nxA-nW-BPF.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "읍·면·동 검색"; ObjectID = "oCz-wK-1Qf"; */
+"oCz-wK-1Qf.placeholder" = "읍·면·동 검색";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pm2-v1-5PX"; */
+"pm2-v1-5PX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "선거일 투표 안내"; ObjectID = "pxf-B9-aoI"; */
+"pxf-B9-aoI.normalTitle" = "선거일 투표 안내";
+
+/* Class = "UINavigationItem"; title = "알림설정"; ObjectID = "qBh-1m-dD2"; */
+"qBh-1m-dD2.title" = "알림설정";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rBo-KN-ewx"; */
+"rBo-KN-ewx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rbV-Kp-sMx"; */
+"rbV-Kp-sMx.text" = "Label";
+
+/* Class = "UILabel"; text = "후보자정보공개자료는 국민의 선거권행사를 보장하기 위하여 공직선거법(제60조의2 제10항)의 규정에 따라 ‘후보자등록신청개시일 전일’까지 공개하고 있으며 동 자료를 목적외의 용도로 사용할 수 없습니다."; ObjectID = "s23-Kw-hGe"; */
+"s23-Kw-hGe.text" = "후보자정보공개자료는 국민의 선거권행사를 보장하기 위하여 공직선거법(제60조의2 제10항)의 규정에 따라 ‘후보자등록신청개시일 전일’까지 공개하고 있으며 동 자료를 목적외의 용도로 사용할 수 없습니다.";
+
+/* Class = "UILabel"; text = "ejdklqwfjklewjfklwejfklewjfklwejfklwejfklwejfklwejfklwejfklwejkfljweklf"; ObjectID = "tBe-gL-QAR"; */
+"tBe-gL-QAR.text" = "ejdklqwfjklewjfklwejfklewjfklwejfklwejfklwejfklwejfklwejfklwejkfljweklf";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uBb-TA-vgk"; */
+"uBb-TA-vgk.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "처음으로"; ObjectID = "v4n-WW-41J"; */
+"v4n-WW-41J.title" = "처음으로";
+
+/* Class = "UILabel"; text = "검색결과 :"; ObjectID = "xoK-Bt-DLP"; */
+"xoK-Bt-DLP.text" = "검색결과 :";
+
+/* Class = "UILabel"; text = "제 7회 전국동시지방선거"; ObjectID = "z8V-8n-0CI"; */
+"z8V-8n-0CI.text" = "제 7회 전국동시지방선거";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zpA-sa-xFY"; */
+"zpA-sa-xFY.text" = "Label";

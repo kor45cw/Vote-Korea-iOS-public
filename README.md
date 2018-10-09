@@ -4,6 +4,7 @@
 
 - 제작기간 (2018.05.06 ~ 2018.06.10)
 - Support Universial & iOS 9.0
+- Swift 4.2
 
 사용하는 Library 목록
 
